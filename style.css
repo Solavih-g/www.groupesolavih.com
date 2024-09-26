@@ -741,7 +741,7 @@ section
     justify-content: center;
     flex-direction: row;
     align-items: center;
-    width: 1152px;
+    width: 1146px;
     height: 350px;
     background-color: #FFFFFF;
 }
@@ -752,7 +752,7 @@ section
     justify-content: center;
     flex-direction: row;
     align-items: center;
-    width: 1152px;
+    width: 1146px;
     height: 630px;
     background-color: #FFFFFF;
 
@@ -764,7 +764,7 @@ section
     justify-content: center;
     flex-direction: row;
     align-items: center;
-    width: 1152px;
+    width: 1146px;
     height: 350px;
     background-color: #FFFFFF;
 }
@@ -853,9 +853,9 @@ section
     flex-direction: column;
     align-items: center;
     text-align: center;
-    width: 1152px;
+    width: 1146px;
     height: 550px;
-    margin-left: 47px;
+    margin-left: 70px;
     background-color: #F2F2F2;
 }
 
@@ -938,9 +938,9 @@ section
     flex-direction: column;
     align-items: center;
     text-align: center;
-    width: 1152px;
+    width: 1146px;
     height: 500px;
-    margin-left: 47px;
+    margin-left: 70px;
     background-color: #F2F2F2;
 }
 
@@ -1015,9 +1015,9 @@ section
 #bloc4_Pge5
 {
     text-align: center;
-    width: 1152px;
+    width: 1146px;
     height: 90px;
-    margin-left: 47px;
+    margin-left: 70px;
     color: #CF6426;
     background-color: #1A1A1A;
     padding-top: 5px;
